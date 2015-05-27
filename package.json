@@ -1,0 +1,30 @@
+{
+  "name": "check-header-hex",
+  "version": "1.0.0",
+  "description": "Checks read stream of files for proper hex headers, the function is a generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ptariche/check-header-hex.git"
+  },
+  "keywords": [
+    "read",
+    "stream",
+    "hex",
+    "headers",
+    "check",
+    "match",
+    "ecma6",
+    "generator function",
+    "verify"
+  ],
+  "author": "Peter A. Tariche",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ptariche/check-header-hex/issues"
+  },
+  "homepage": "https://github.com/ptariche/check-header-hex"
+}
