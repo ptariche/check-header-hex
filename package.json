@@ -1,6 +1,6 @@
 {
   "name": "check-header-hex",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Checks read stream of files for proper hex headers, the function is a generator",
   "main": "index.js",
   "scripts": {
